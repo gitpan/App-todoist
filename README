@@ -1,9 +1,9 @@
 
 
 This archive contains the distribution App-todoist,
-version 0.01:
+version 0.02:
 
-  implements the meat of a command-line interface to todoist.com
+  command-line for manipulating your todoist.com todo list
 
 This software is copyright (c) 2014 by Neil Bowers.
 

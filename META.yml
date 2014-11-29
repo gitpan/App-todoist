@@ -1,5 +1,5 @@
 ---
-abstract: 'implements the meat of a command-line interface to todoist.com'
+abstract: 'command-line for manipulating your todoist.com todo list'
 author:
   - 'Neil Bowers <neil@bowers.com>'
 build_requires:
@@ -24,4 +24,4 @@ requires:
 resources:
   homepage: https://github.com/neilbowers/App-todoist
   repository: https://github.com/neilbowers/App-todoist.git
-version: '0.01'
+version: '0.02'
